@@ -21,3 +21,5 @@ git commit -m" some message"
 To show or upload the changes in git hub:
 
 git push origin main
+
+git init-- will make the the file as git file.
