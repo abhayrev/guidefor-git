@@ -49,3 +49,26 @@ git branch -d <name of branch>
 
 now you can push this local repository to main usnig git push origin main
 
+
+to merge two branches:
+
+way 1
+git diff <-branch name-> (to compare commits ,branch files and more)
+
+
+PULL command:
+ used to featch and download contenct from a remote repo and immediatelty update the local repo
+ to match the content
+< git pull origin main>
+
+to reset your add
+
+git reset 
+
+git reset HEAD~1 
+
+git log( will show show the hash of all previous commit)
+
+to go multiple commit back
+
+git reset <hash of commit>
