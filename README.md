@@ -23,3 +23,13 @@ To show or upload the changes in git hub:
 git push origin main
 
 git init-- will make the the file as git file.
+git remote add origin <-link-> -- we want to add new remote repo and name its as origin
+
+git remote -v :-- is used to verify the which remote we are talking about 
+
+git branch 
+
+git branch -M main (to chnage the branch name to name )
+
+now you can push this local repository to main usnig git push origin main
+
