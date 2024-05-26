@@ -31,5 +31,21 @@ git branch
 
 git branch -M main (to chnage the branch name to name )
 
+
+Branch command :
+
+git branch (will let you know where you are)
+git branch -M main (rename branch)
+git checkout <- branch name->  (to navigate from one branch to another branch)
+
+git checkout -b <-new branch name-> (to create new branch)
+
+to delete any branches :
+if you are in same branch and try to delte that branch then yoou cannot able to delete it 
+git branch -d <name of branch>
+
+
+
+
 now you can push this local repository to main usnig git push origin main
 
